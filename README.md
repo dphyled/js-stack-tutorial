@@ -1,6 +1,7 @@
 ## A great tutorial from https://github.com/verekia/js-stack-from-scratch.
 
 Teaches how to setup a JavaScript stack from scratch.
+
 Includes:
 
 * React, React Router, Redux
